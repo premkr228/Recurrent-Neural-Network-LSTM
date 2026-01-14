@@ -1,6 +1,7 @@
 # Recurrent-Neural-Network-LSTM  Credit Card Fraud Detection Using LSTM Recurrent Neural Networks
 A Recurrent Neural Network (RNN) processes sequential data by maintaining a hidden state that carries information from previous time steps. LSTM, a specialized RNN, uses input, forget, and output gates to retain important information over long sequences, overcoming vanishing gradient issues and enabling effective learning of long-term dependencies.
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/318e3e23-abc3-4796-bb5e-05e210465aa2" />
 
 Project Overview
 
